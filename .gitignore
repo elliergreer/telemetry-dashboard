@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+
+# VSCode settings
+.vscode/
+
+# Logs / Temp files
+*.log
+*.tmp
+*.DS_Store
+
+# Large raw data (not small sample data)
+data/raw/
+data/cache/
