@@ -1,7 +1,7 @@
-# IndyCar Telemetry Dashboard — Starter Kit
+# Telemetry Dashboard
 
 This starter gives you:
-- **Sample IndyCar-style telemetry** (`data/sample_indycar_telemetry.csv`): 2 laps at 20 Hz with realistic channels
+- **Sample telemetry** (`data/sample_indycar_telemetry.csv`): 2 laps at 20 Hz with realistic channels
 - A minimal **MoTeC‑lite dashboard** script (`src/dashboard.py`) that:
   - Loads CSV
   - Plots speed and throttle/brake vs distance
